@@ -1,6 +1,8 @@
 # Lucky puts
 A simple scorekeeping application for one-put-per-day office minigolf.
 
+This is a fork of the lucky-puts-app created by [espenh](https://github.com/espenh). This was forked in order to serve it at the office
+
 ![alt tag](https://github.com/espenh/lucky-puts/blob/master/docs/screenshots/lucky-puts_main.png)
 
 See running version at: https://luckyputs-f03bf.firebaseapp.com
